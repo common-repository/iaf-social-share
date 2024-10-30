@@ -1,0 +1,205 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: IAF Social Share\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-23 22:49+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.4; wp-5.4.1"
+
+#. Description of the plugin
+msgid ""
+"A simple plugin to share articles, pages and any other post types on the "
+"most commonly used social media including Whatsapp. Use the shortcode <code>"
+"[iaf-share-buttons]</code> anywhere on the website to display the buttons "
+"and share any page."
+msgstr ""
+
+#: inc/admin/settings-form.php:128
+msgid "After Content"
+msgstr ""
+
+#: inc/admin/menu.php:22
+msgid ""
+"An error occured while saving your settings. Check that everything is "
+"correct and try again"
+msgstr ""
+
+#: inc/admin/sidebar-box.php:12
+msgid "Article"
+msgstr ""
+
+#: inc/admin/settings-form.php:111
+msgid "Before Content"
+msgstr ""
+
+#: inc/admin/sidebar-box.php:5
+msgid "Choose the pot types where the share buttons will be displayed."
+msgstr ""
+
+#: inc/admin/sidebar-box.php:130
+msgid "Custom"
+msgstr ""
+
+#: inc/admin/sidebar-box.php:78
+msgid "Customize the layout of the share buttons."
+msgstr ""
+
+#: inc/admin/sidebar-box.php:126
+msgid "Dark"
+msgstr ""
+
+#: inc/admin/sidebar-box.php:124
+msgid "Default"
+msgstr ""
+
+#: inc/admin/settings-form.php:11
+msgid "Facebook"
+msgstr ""
+
+#: inc/admin/sidebar-box.php:146
+msgid "Follow me on social media"
+msgstr ""
+
+#. Author of the plugin
+msgid "Fotso Fonkam"
+msgstr ""
+
+#: inc/admin/settings-form.php:21 inc/admin/settings-form.php:38
+#: inc/admin/settings-form.php:61 inc/admin/settings-form.php:78
+#: inc/admin/settings-form.php:95 inc/admin/settings-form.php:121
+#: inc/admin/settings-form.php:138 inc/admin/sidebar-box.php:22
+#: inc/admin/sidebar-box.php:40 inc/admin/sidebar-box.php:66
+msgid "Hide"
+msgstr ""
+
+#: inc/admin/sidebar-box.php:109
+msgid "Hide icon"
+msgstr ""
+
+#: inc/admin/sidebar-box.php:107
+msgid "Hide text"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.iamfotso.cm/a-propos/"
+msgstr ""
+
+#. Name of the plugin
+msgid "IAF Social Share"
+msgstr ""
+
+#: inc/admin/menu.php:11
+msgid "IAF Social Share Settings"
+msgstr ""
+
+#: inc/admin/sidebar-box.php:94
+msgid "Icon only"
+msgstr ""
+
+#: inc/admin/settings-form.php:104
+msgid "Indicate where the share buttons will appear on your website."
+msgstr ""
+
+#: inc/admin/sidebar-box.php:77
+msgid "Layout"
+msgstr ""
+
+#: inc/admin/sidebar-box.php:128
+msgid "Light"
+msgstr ""
+
+#: inc/admin/settings-form.php:51
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/admin/sidebar-box.php:102
+msgid "Mobile settings"
+msgstr ""
+
+#: inc/admin/sidebar-box.php:29
+msgid "Page"
+msgstr ""
+
+#: inc/admin/settings-form.php:103
+msgid "Positions"
+msgstr ""
+
+#: inc/admin/sidebar-box.php:4
+msgid "Post Types"
+msgstr ""
+
+#: inc/admin/settings-form.php:146
+msgid "Save settings"
+msgstr ""
+
+#: inc/admin/settings-form.php:5
+msgid "Select the social media that you would like to use"
+msgstr ""
+
+#: inc/admin/settings-form.php:16 inc/admin/settings-form.php:33
+#: inc/admin/settings-form.php:56 inc/admin/settings-form.php:73
+#: inc/admin/settings-form.php:90 inc/admin/settings-form.php:116
+#: inc/admin/settings-form.php:133 inc/admin/sidebar-box.php:17
+#: inc/admin/sidebar-box.php:34 inc/admin/sidebar-box.php:61
+msgid "Show"
+msgstr ""
+
+#: inc/admin/sidebar-box.php:111
+msgid "Show text and icon"
+msgstr ""
+
+#: inc/admin/settings-form.php:4
+msgid "Social Media"
+msgstr ""
+
+#: inc/admin/sidebar-box.php:85
+msgid "Style"
+msgstr ""
+
+#: inc/admin/settings-form.php:85
+msgid "Telegram"
+msgstr ""
+
+#: inc/admin/sidebar-box.php:90
+msgid "Text and icon"
+msgstr ""
+
+#: inc/admin/sidebar-box.php:92
+msgid "Text only"
+msgstr ""
+
+#: inc/admin/sidebar-box.php:119
+msgid "Theme"
+msgstr ""
+
+#: inc/admin/settings-form.php:28
+msgid "Twitter"
+msgstr ""
+
+#: inc/admin/menu.php:32
+msgid ""
+"Use IAF Social Share plugin to display share buttons on your articles and "
+"pages."
+msgstr ""
+
+#: inc/admin/settings-form.php:68
+msgid "WhatsApp"
+msgstr ""
+
+#: inc/activate.php:8
+msgid ""
+"You have to upgrade your WordPress version before you can use this plugin"
+msgstr ""
+
+#: inc/admin/menu.php:16
+msgid "Your settings were successfully saved"
+msgstr ""

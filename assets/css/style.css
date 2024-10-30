@@ -1,0 +1,27 @@
+.iaf-social-share-wrap{
+    padding: 15px 0;
+}
+
+.iaf-social-share-wrap div {
+    display: inline-block;
+    padding: 0px;
+    margin-right: 8px;
+    margin-bottom: 5px;
+}
+
+.iaf-social-share-wrap a {
+    display: inline-block;
+    padding: 7px 15px;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-decoration: none;
+}
+
+.iaf-social-share-wrap i.fab {
+    font-size: 16px;
+}
+
+.iaf-social-share-wrap .iaf-text {
+    font-family: 'Roboto', sans-serif;
+}

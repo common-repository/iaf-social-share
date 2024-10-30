@@ -1,0 +1,12 @@
+.iaf-social-share-wrap a {
+    border: 2px solid #FFF;
+    background: #FFF;
+    color: #444;
+}
+
+.iaf-social-share-wrap a:hover,
+.iaf-social-share-wrap a:focus {
+    border: 2px solid #000;
+    background: #FFF;
+    color: #000;
+}

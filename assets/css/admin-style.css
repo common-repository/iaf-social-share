@@ -1,0 +1,334 @@
+.iaf-row,
+.iaf-col,
+.iaf-form-row {
+    box-sizing: border-box;
+    padding: 0px;
+}
+
+.iaf-col {
+    margin-bottom: 15px;
+}
+
+.iaf-row .iaf-main-col,
+.iaf-row .iaf-side-col {
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+.iaf-row .iaf-content {
+    background: #FFF;
+    padding: 0;
+    border-bottom: 1px solid #ccd0d4;
+}
+
+.iaf-form-row,
+.iaf-content ul,
+.iaf-content p {
+    padding: 15px;
+    margin: 0px;
+    border-top: 1px solid #f1f1f1;
+}
+
+.iaf-form-input {
+    padding-right: 15px;
+}
+
+.iaf-row .iaf-main-col {
+    width: 50%;
+}
+
+.iaf-row .iaf-side-col {
+    width: 50%;
+    vertical-align: top;
+    box-sizing: border-box;
+}
+
+.iaf-row .iaf-main-content,
+.iaf-row .iaf-side-content {
+    background: #f4f4f4;
+    border: 1px solid #ccd0d4;
+    box-sizing: border-box;
+    padding: 0px;
+}
+
+.iaf-row .iaf-main-content {
+    margin-right: 15px;
+}
+
+.iaf-row .iaf-title {
+    padding: 0px 15px;
+}
+
+.iaf-row .iaf-footer,
+.iaf-row .iaf-footer-social {
+    padding: 15px;
+    background: #f1f1f1;
+}
+
+.iaf-row .iaf-footer a,
+.iaf-row .iaf-footer-social a {
+    padding-right: 10px;
+    background: #f1f1f1;
+    text-decoration: none;
+}
+
+.iaf-form-row .iaf-form-label {
+    width: 30%
+}
+
+.iaf-form-row .iaf-form-control {
+    width: 70%
+}
+
+.iaf-form-row .iaf-form-label,
+.iaf-form-row .iaf-form-control,
+.iaf-form-row .iaf-form-input {
+    display: inline-block;
+}
+
+.position-box{
+    border:1px solid #222;
+    width: 150px;
+    height:150px;
+    box-sizing: border-box;
+    padding:10px;
+}
+
+.iaf-row .iaf-advert{
+    background: #000;
+    color: #999;
+    position: sticky;
+    top: 50px;
+
+}
+
+.iaf-row .iaf-advert .iaf-content{
+    color: #444;
+    padding: 15px;
+}
+
+.iaf-row .ad-title{
+    color: #999;
+    text-transform: uppercase;
+}
+
+.iaf-row .iaf-title a {
+    color: #b0b0b0;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 10px;
+}
+
+.iaf-row .ad-title {
+    color: #999;
+    text-transform: uppercase;
+}
+
+.iaf-footer-social .iaf-social-box {
+    display: inline-block;
+    width: 25%;
+    box-sizing: border-box;
+    text-align:center;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.iaf-footer-social .iaf-social-box .fab {
+    font-size: 32px;
+    margin: 9px 0;
+}
+
+.iaf-footer-social .iaf-social-label {
+    font-size: 12px;
+    font-family: Roboto, sans-serif;
+}
+
+/* Facebook */
+.iaf-footer-social a.iaf-facebook-link {
+    color: #3b5998;
+}
+
+.iaf-footer-social a.iaf-facebook-link:hover,
+.iaf-footer-social a.iaf-facebook-link:focus {
+    color: #1877f2;
+}
+
+/* Twitter */
+.iaf-footer-social a.iaf-twitter-link {
+    color: #1da1f2;
+}
+
+.iaf-footer-social a.iaf-twitter-link:hover,
+.iaf-footer-social a.iaf-twitter-link:focus {
+    color: #9baec8;
+}
+
+/* LinkedIn */
+.iaf-footer-social a.iaf-linkedin-link {
+    color: #007bb5;
+}
+
+.iaf-footer-social a.iaf-linkedin-link:hover,
+.iaf-footer-social a.iaf-linkedin-link:focus {
+    color: #00a0dc;
+}
+
+/* WordPress */
+.iaf-footer-social a.iaf-wordpress-link {
+    color: #444;
+}
+
+.iaf-footer-social a.iaf-wordpress-link:hover,
+.iaf-footer-social a.iaf-wordpress-link:focus {
+    color: #999;
+}
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .iaf-row .iaf-col {
+        width: 100%;
+    }
+
+    .iaf-row .iaf-main-content {
+        margin-right: 0;
+    }
+    
+
+    .iaf-form-row .iaf-form-label {
+        width: 30%;
+    }
+
+    .iaf-form-row .iaf-form-control {
+        width: 70%;
+    }
+
+    .iaf-form-row .iaf-form-label,
+    .iaf-form-row .iaf-form-control {
+        box-sizing: border-box;
+        display: inline-block;
+        margin: 0px;
+    }
+
+    .iaf-form-row .iaf-form-label,
+    .iaf-form-row .iaf-form-input {
+        margin-bottom: 15px;
+    }
+
+    .iaf-footer-social .iaf-social-box {
+        display: inline-block;
+        width: 50%;
+        box-sizing: border-box;
+        text-align:center;
+        margin: 10px 0px;
+    }
+    
+    .iaf-footer-social .iaf-social-box .fab {
+        font-size: 24px;
+        margin: 9px 0;
+    }
+ }
+
+ /* Small devices (portrait tablets and large phones, 600px and up) */
+ @media only screen and (min-width: 600px) {
+    .iaf-row .iaf-col {
+        width: 100%;
+    }
+
+    .iaf-row .iaf-main-content {
+        margin-right: 0;
+    }
+    
+    .iaf-form-row .iaf-form-label {
+        width: 30%;
+    }
+
+    .iaf-form-row .iaf-form-control {
+        width: 70%;
+    }
+
+    .iaf-form-row .iaf-form-label,
+    .iaf-form-row .iaf-form-control {
+        box-sizing: border-box;
+        display: inline-block;
+        margin: 0px;
+    }
+
+    .iaf-form-row .iaf-form-label,
+    .iaf-form-row .iaf-form-input {
+        margin-bottom: 15px;
+    }
+ }
+ 
+ /* Medium devices (landscape tablets, 768px and up) */
+ @media only screen and (min-width: 768px) {
+    .iaf-row .iaf-main-col {
+        width: 100%;
+    }
+    
+    .iaf-row .iaf-main-content {
+        margin-right: 0;
+    }
+    
+    .iaf-row .iaf-side-col {
+        width: 100%;
+    }
+
+    .iaf-form-row .iaf-form-label {
+        width: 30%;
+    }
+
+    .iaf-form-row .iaf-form-control {
+        width: 70%;
+    }
+
+    .iaf-form-row .iaf-form-label,
+    .iaf-form-row .iaf-form-control {
+        box-sizing: border-box;
+        display: inline-block;
+        margin: 0px;
+    }
+
+    .iaf-form-row .iaf-form-label,
+    .iaf-form-row .iaf-form-input {
+        margin-bottom: 15px;
+    }
+ }
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    .iaf-row .iaf-main-col {
+        width: 50%;
+    }
+
+    .iaf-row .iaf-side-col {
+        width: 50%;
+    }
+
+    .iaf-row .iaf-main-content {
+        margin-right: 15px;
+    }
+
+    .iaf-form-row .iaf-form-label {
+        width: 30%;
+    }
+
+    .iaf-form-row .iaf-form-control {
+        width: 70%;
+    }
+
+    .iaf-form-row .iaf-form-label,
+    .iaf-form-row .iaf-form-control {
+        box-sizing: border-box;
+        display: inline-block;
+        margin: 0px;
+    }
+
+    .iaf-form-row .iaf-form-label,
+    .iaf-form-row .iaf-form-input {
+        margin-bottom: 15px;
+    }
+
+}

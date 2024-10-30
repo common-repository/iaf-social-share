@@ -1,0 +1,215 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: IAF Social Share\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-18 14:31+0000\n"
+"PO-Revision-Date: 2021-06-23 23:51+0000\n"
+"Last-Translator: \n"
+"Language-Team: Français\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.4; wp-5.4.1"
+
+#. Description of the plugin
+msgid ""
+"A simple plugin to share articles, pages and any other post types on the "
+"most commonly used social media including Whatsapp. Use the shortcode <code>"
+"[iaf-share-buttons]</code> anywhere on the website to display the buttons "
+"and share any page."
+msgstr ""
+"Ce plugin vous permet de partager vos articles, pages et vos types de "
+"publication personnalisés sur les réseaux sociaux les plus courants, "
+"incluant WhatsApp. Utilisez le code court <code>[iaf-share-buttons]</code> "
+"partout sur votre site pour afficher les boutons et partager n'importe quel "
+"contenu."
+
+#: inc/admin/settings-form.php:128
+msgid "After Content"
+msgstr "Après le contenu"
+
+#: inc/admin/menu.php:22
+msgid ""
+"An error occured while saving your settings. Check that everything is "
+"correct and try again"
+msgstr ""
+"Une erreur est survenue lors de l'enregistrement de vos préférences. "
+"Revérifiez et réessayez"
+
+#: inc/admin/sidebar-box.php:12
+msgid "Article"
+msgstr "Article"
+
+#: inc/admin/settings-form.php:111
+msgid "Before Content"
+msgstr "Avant le contenu"
+
+#: inc/admin/sidebar-box.php:5
+msgid "Choose the pot types where the share buttons will be displayed."
+msgstr ""
+"Sélectionner le type de publication publication que vous voulez partager."
+
+#: inc/admin/sidebar-box.php:130
+msgid "Custom"
+msgstr "Personnalisé"
+
+#: inc/admin/sidebar-box.php:78
+msgid "Customize the layout of the share buttons."
+msgstr "Personnalisez l'affichage des boutons de partage."
+
+#: inc/admin/sidebar-box.php:126
+msgid "Dark"
+msgstr "Sombre"
+
+#: inc/admin/sidebar-box.php:124
+msgid "Default"
+msgstr "Par défaut"
+
+#: inc/admin/settings-form.php:11
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/admin/sidebar-box.php:146
+msgid "Follow me on social media"
+msgstr "Suivez-moi"
+
+#. Author of the plugin
+msgid "Fotso Fonkam"
+msgstr "Fotso Fonkam"
+
+#: inc/admin/settings-form.php:21 inc/admin/settings-form.php:38
+#: inc/admin/settings-form.php:61 inc/admin/settings-form.php:78
+#: inc/admin/settings-form.php:95 inc/admin/settings-form.php:121
+#: inc/admin/settings-form.php:138 inc/admin/sidebar-box.php:22
+#: inc/admin/sidebar-box.php:40 inc/admin/sidebar-box.php:66
+msgid "Hide"
+msgstr "Masquer"
+
+#: inc/admin/sidebar-box.php:109
+msgid "Hide icon"
+msgstr "Masquer l'icône"
+
+#: inc/admin/sidebar-box.php:107
+msgid "Hide text"
+msgstr "Masquer le texte"
+
+#. Author URI of the plugin
+msgid "http://www.iamfotso.cm/a-propos/"
+msgstr "http://www.iamfotso.cm/a-propos/"
+
+#. Name of the plugin
+msgid "IAF Social Share"
+msgstr "IAF Social Share"
+
+#: inc/admin/menu.php:11
+msgid "IAF Social Share Settings"
+msgstr "Réglages IAF Social Share"
+
+#: inc/admin/sidebar-box.php:94
+msgid "Icon only"
+msgstr "Icône seule"
+
+#: inc/admin/settings-form.php:104
+msgid "Indicate where the share buttons will appear on your website."
+msgstr ""
+"Indiquez les endroits où les boutons de partage apparaîtront sur votre site."
+
+#: inc/admin/sidebar-box.php:77
+msgid "Layout"
+msgstr "Apparence"
+
+#: inc/admin/sidebar-box.php:128
+msgid "Light"
+msgstr "Leger"
+
+#: inc/admin/settings-form.php:51
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/admin/sidebar-box.php:102
+msgid "Mobile settings"
+msgstr "Réglages mobile"
+
+#: inc/admin/sidebar-box.php:29
+msgid "Page"
+msgstr "Page"
+
+#: inc/admin/settings-form.php:103
+msgid "Positions"
+msgstr "Positons"
+
+#: inc/admin/sidebar-box.php:4
+msgid "Post Types"
+msgstr "Types de publication"
+
+#: inc/admin/settings-form.php:146
+msgid "Save settings"
+msgstr "Enregistrer les réglages"
+
+#: inc/admin/settings-form.php:5
+msgid "Select the social media that you would like to use"
+msgstr "Choisissez les réseaux sociaux sur lesquels vous voulez afficher"
+
+#: inc/admin/settings-form.php:16 inc/admin/settings-form.php:33
+#: inc/admin/settings-form.php:56 inc/admin/settings-form.php:73
+#: inc/admin/settings-form.php:90 inc/admin/settings-form.php:116
+#: inc/admin/settings-form.php:133 inc/admin/sidebar-box.php:17
+#: inc/admin/sidebar-box.php:34 inc/admin/sidebar-box.php:61
+msgid "Show"
+msgstr "Afficher"
+
+#: inc/admin/sidebar-box.php:111
+msgid "Show text and icon"
+msgstr "Texte et icône"
+
+#: inc/admin/settings-form.php:4
+msgid "Social Media"
+msgstr "Réseaux sociaux"
+
+#: inc/admin/sidebar-box.php:85
+msgid "Style"
+msgstr "Style"
+
+#: inc/admin/settings-form.php:85
+msgid "Telegram"
+msgstr "Telegram"
+
+#: inc/admin/sidebar-box.php:90
+msgid "Text and icon"
+msgstr "Texte et icône"
+
+#: inc/admin/sidebar-box.php:92
+msgid "Text only"
+msgstr "Texte seul"
+
+#: inc/admin/sidebar-box.php:119
+msgid "Theme"
+msgstr "Thème"
+
+#: inc/admin/settings-form.php:28
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/admin/menu.php:32
+msgid ""
+"Use IAF Social Share plugin to display share buttons on your articles and "
+"pages."
+msgstr ""
+"Utilisez le plugin IAF Social Share pour afficher les boutons de partage sur "
+"vos articles et pages."
+
+#: inc/admin/settings-form.php:68
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#: inc/activate.php:8
+msgid ""
+"You have to upgrade your WordPress version before you can use this plugin"
+msgstr "Vous devez mettre WordPress à jour avant d'utiliser ce plugin."
+
+#: inc/admin/menu.php:16
+msgid "Your settings were successfully saved"
+msgstr "Vos réglages ont bien été enregistrés"

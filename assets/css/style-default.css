@@ -1,0 +1,69 @@
+/* Facebook */
+.iaf-social-share-wrap a.js-share-facebook-link {
+    border: 2px solid #3b5998;
+    background: #3b5998;
+    color: #FFF;
+}
+
+.iaf-social-share-wrap a.js-share-facebook-link:hover,
+.iaf-social-share-wrap a.js-share-facebook-link:focus {
+    border: 2px solid #1877f2;
+    background: #1877f2;
+    color: #fff;
+}
+
+/* Twitter */
+.iaf-social-share-wrap a.js-share-twitter-link {
+    border: 2px solid #1da1f2;
+    background: #1da1f2;
+    color: #FFF;
+}
+
+.iaf-social-share-wrap a.js-share-twitter-link:hover,
+.iaf-social-share-wrap a.js-share-twitter-link:focus {
+    border: 2px solid #9baec8;
+    background: #9baec8;
+    color: #FFF;
+}
+
+/* LinkedIn */
+.iaf-social-share-wrap a.js-share-linkedin-link {
+    border: 2px solid #007bb5;
+    background: #007bb5;
+    color: #FFF;
+}
+
+.iaf-social-share-wrap a.js-share-linkedin-link:hover,
+.iaf-social-share-wrap a.js-share-linkedin-link:focus {
+    border: 2px solid #00a0dc;
+    background: #00a0dc;
+    color: #FFF;
+}
+
+/* Telegram */
+.iaf-social-share-wrap a.js-share-telegram-link {
+    border: 2px solid #0088CC;
+    background: #0088CC;
+    color: #FFF;
+}
+
+.iaf-social-share-wrap a.js-share-telegram-link:hover,
+.iaf-social-share-wrap a.js-share-telegram-link:focus {
+    border: 2px solid #1da1f2;
+    background: #1da1f2;
+    color: #FFF;
+}
+
+/* WhatsApp */
+.iaf-social-share-wrap a.js-share-whatsapp-link {
+    border: 2px solid #25d366;
+    background: #25d366;
+    color: #FFF;
+}
+
+.iaf-social-share-wrap a.js-share-whatsapp-link:hover,
+.iaf-social-share-wrap a.js-share-whatsapp-link:focus {
+    border: 2px solid #128c7e;
+    background: #128c7e;
+    color: #FFF;
+}
